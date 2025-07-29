@@ -1,5 +1,5 @@
 
-# SANTANU EV Geographic Market Segmentation & Forecasting (India)
+#  EV Geographic Market Segmentation & Forecasting (India)
 
 This project performs **state-wise market analysis** and **electric vehicle (EV) sales forecasting** across India using data from 2014 to 2024. It includes **clustering**, **geographic visualizations**, and a powerful **XGBoost-based time-aware regression model** to predict future EV sales.
 
